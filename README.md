@@ -121,13 +121,6 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
 
-### 🏗️ Infraestructura especializada
-<a href="https://www.vmware.com/" target="_blank"><img src="icons/vmware.svg" height="48" alt="VMware"/></a>
-<a href="https://temporal.io/" target="_blank"><img src="icons/temporal.svg" height="48" alt="Temporal"/></a>
-<a href="https://www.rabbitmq.com/" target="_blank"><img src="icons/rabbitmq.svg" height="48" alt="RabbitMQ"/></a>
-<a href="https://www.vaultproject.io/" target="_blank"><img src="icons/vault.svg" height="48" alt="HashiCorp Vault"/></a>
-<a href="https://www.oracle.com/cloud/" target="_blank"><img src="icons/oci.svg" height="48" alt="OCI"/></a>
-
 </div>
 
 ---
