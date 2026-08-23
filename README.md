@@ -20,7 +20,6 @@
 
 ## 🌟 Acerca de mí
 
-> *"Construyendo agentes de IA que razonan, usan herramientas y saben cuándo pedir permiso."*
 
 Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, especializado en **construir agentes de IA en producción**: orquestación con patrón **ReAct**, integración de herramientas (function calling/tools), flujos de **aprobación humana (HITL)** y **RAG** con modelos open source (familia Qwen/Llama).
 
