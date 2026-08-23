@@ -1,9 +1,14 @@
+<div align="right">
+  <kbd><a href="README.md"><img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22"></a></kbd>
+  <kbd><a href="README.en.md"><img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></a></kbd>
+</div>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=IvanToBri&color=blue&style=for-the-badge" alt="IvanToBri"/></p>
 
-<h1 align="center">¡Hola, soy Iván! 👋</h1>
+<h1 align="center">Hi, I'm Iván! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI;Ingeniero+en+Entornos+Virtuales+y+Negocios+Digitales;Construyendo+agentes+con+ReAct+%2B+RAG+%2B+LLMs+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI;Engineer+in+Virtual+Environments+%26+Digital+Business;Building+agents+with+ReAct+%2B+RAG+%2B+open-source+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,29 +18,29 @@
 
 ---
 
-## 🌟 Acerca de mí
+## 🌟 About me
 
-> *"Construyendo agentes de IA que razonan, usan herramientas y saben cuándo pedir permiso."*
+> *"Building AI agents that reason, use tools, and know when to ask for permission."*
 
-Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, especializado en **construir agentes de IA en producción**: orquestación con patrón **ReAct**, integración de herramientas (function calling/tools), flujos de **aprobación humana (HITL)** y **RAG** con modelos open source (familia Qwen/Llama).
+I'm an **Engineer in Virtual Environments & Digital Business**, specialized in **building production AI agents**: orchestration with the **ReAct** pattern, tool integration (function calling), **Human-in-the-Loop (HITL)** approval flows, and **RAG** with open-source models (Qwen/Llama family).
 
-Actualmente trabajo en una plataforma de **AITOps** orquestando agentes con **Temporal**, y en mis proyectos personales he llevado sistemas desde un MVP en Streamlit hasta arquitecturas completas con **React + FastAPI + Docker + PostgreSQL**.
+I currently work on an **AITOps** platform orchestrating agents with **Temporal**, and in my personal projects I've taken systems from a Streamlit MVP to full architectures with **React + FastAPI + Docker + PostgreSQL**.
 
-- 🔭 Trabajando en: agentes conversacionales con orquestación de infraestructura (VMware, AWS)
-- 🌱 Aprendiendo: IA Aplicada con Llama (Meta) — fine-tuning con LoRA/QLoRA, evals de LLMs
-- 💬 Pregúntame de: RAG, agentes ReAct, LLMs open source, arquitecturas con FastAPI/React
-- ⚡ Mi meta: seguir creciendo como AI Engineer y aportar en equipos que construyan IA aplicada de verdad
+- 🔭 Working on: conversational agents orchestrating infrastructure (VMware, AWS)
+- 🌱 Learning: Applied AI with Llama (Meta) — fine-tuning with LoRA/QLoRA, LLM evals
+- 💬 Ask me about: RAG, ReAct agents, open-source LLMs, FastAPI/React architectures
+- ⚡ My goal: keep growing as an AI Engineer and contribute to teams building real applied AI
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 **📄 DocuCode**
-Generador automático de documentación (docstrings) en 7 lenguajes usando **Qwen 7B Instruct**. Evolucionó de un MVP monolítico en Streamlit a una arquitectura completa con React + FastAPI + Docker + PostgreSQL.
+Automatic documentation generator (docstrings) in 7 languages using **Qwen 7B Instruct**. Evolved from a monolithic Streamlit MVP to a full architecture with React + FastAPI + Docker + PostgreSQL.
 
 `Python` `React` `FastAPI` `Docker` `PostgreSQL` `Qwen`
 
@@ -43,7 +48,7 @@ Generador automático de documentación (docstrings) en 7 lenguajes usando **Qwe
 <td width="50%">
 
 **🧾 Vizion Expense**
-Extracción y generación de informes a partir de tickets y facturas (CSV, Excel, PDF, XML/CFDI del SAT) usando **Qwen 2.5 VL** (visión).
+Extraction and report generation from receipts and invoices (CSV, Excel, PDF, XML/CFDI for Mexican tax authority) using **Qwen 2.5 VL** (vision).
 
 `Qwen 2.5 VL` `RAG` `OCR` `CFDI/SAT`
 
@@ -52,8 +57,8 @@ Extracción y generación de informes a partir de tickets y facturas (CSV, Excel
 <tr>
 <td width="50%">
 
-**🔀 Orquestador Multi-Tool**
-Orquestador dinámico de APIs con múltiples herramientas y patrón **ReAct**, usando **Qwen 3 8B**. Mismo stack que DocuCode, mayor complejidad de orquestación.
+**🔀 Multi-Tool Orchestrator**
+Dynamic API orchestrator with multiple tools and the **ReAct** pattern, using **Qwen 3 8B**. Same stack as DocuCode, higher orchestration complexity.
 
 `ReAct` `Multi-tool` `Qwen 3` `FastAPI` `React`
 
@@ -61,7 +66,7 @@ Orquestador dinámico de APIs con múltiples herramientas y patrón **ReAct**, u
 <td width="50%">
 
 **🖥️ AITOps – VMware Agent**
-Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y aprobaciones humanas (HITL) para gestión de VMs en VMware/vSphere.
+Agentic flow orchestrated with **Temporal**: pre-execution validations and human approvals (HITL) for managing VMs on VMware/vSphere.
 
 `Temporal` `HITL` `VMware` `ReAct` `RabbitMQ`
 
@@ -71,11 +76,11 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 
 <div align="center">
 
-### 🤖 IA / LLMs / Agentes
+### 🤖 AI / LLMs / Agents
 <a href="https://qwenlm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Qwen-6E56CF?style=for-the-badge"/></a>
 <a href="https://www.llama.com/" target="_blank"><img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReAct_Agents-2E9EF7?style=for-the-badge"/>
@@ -100,18 +105,18 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
 
-### 🧮 Bases de datos vectoriales
+### 🧮 Vector Databases
 <a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/></a>
 <a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square&logoColor=white"/></a>
 <a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/></a>
 
-### 🗄️ Bases de datos relacionales / NoSQL
+### 🗄️ Relational / NoSQL Databases
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></a>
 <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase"/></a>
 
-### ☁️ Infraestructura / DevOps
+### ☁️ Infrastructure / DevOps
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/></a>
@@ -125,7 +130,7 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 
 ---
 
-## 📈 Estadísticas
+## 📈 Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanToBri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -141,5 +146,5 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <p align="center">
-  <i>🤝 Abierto a colaborar en proyectos de agentes de IA, RAG y automatización con LLMs open source</i>
+  <i>🤝 Open to collaborate on AI agent projects, RAG, and automation with open-source LLMs</i>
 </p>
