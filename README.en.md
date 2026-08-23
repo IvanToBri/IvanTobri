@@ -1,6 +1,6 @@
 <div align="right">
-  <kbd><a href="README.md"><img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22"></a></kbd>
-  <kbd><a href="README.en.md"><img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></a></kbd>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇪🇸-Español-white?style=for-the-badge"></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸-English-white?style=for-the-badge"></a>
 </div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=IvanToBri&color=blue&style=for-the-badge" alt="IvanToBri"/></p>
