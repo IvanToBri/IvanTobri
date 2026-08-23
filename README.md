@@ -100,9 +100,9 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/>
 
 ### 🗄️ Bases de datos
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
@@ -112,11 +112,11 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/>
 <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
-<img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black"/>
+<img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logoColor=black"/>
 <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
 <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/>
 <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
