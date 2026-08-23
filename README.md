@@ -1,6 +1,3 @@
-
-
-Readme · MD
 <div align="right"> <kbd><a href="README.md"><img title="Español" alt="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22"></a></kbd> <kbd><a href="README.en.md"><img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></a></kbd> </div> <p align="left"><img src="https://komarev.com/ghpvc/?username=IvanToBri&color=blue&style=for-the-badge" alt="IvanToBri"/></p> <h1 align="center">¡Hola, soy Iván! 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI;Ingeniero+en+Entornos+Virtuales+y+Negocios+Digitales;Construyendo+agentes+con+ReAct+%2B+RAG+%2B+LLMs+open+source" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ivan-2492b9395" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:ivanalfredoto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 🌟 Acerca de mí
 "Construyendo agentes de IA que razonan, usan herramientas y saben cuándo pedir permiso."
