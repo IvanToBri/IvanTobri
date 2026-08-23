@@ -23,7 +23,7 @@
 
 Soy **Ingeniero en Entornos Virtuales y Negocios Digitales**, especializado en **construir agentes de IA en producción**: orquestación con patrón **ReAct**, integración de herramientas (function calling/tools), flujos de **aprobación humana (HITL)** y **RAG** con modelos open source (familia Qwen/Llama).
 
-Actualmente trabajo en una plataforma de **AITOps** orquestando agentes con **Temporal**, y en mis proyectos personales he llevado sistemas desde un MVP en Streamlit hasta arquitecturas completas con **React + FastAPI + Docker + PostgreSQL**.
+Actualmente trabajo en n.technology una plataforma de **AITOps** orquestando agentes con **Temporal**, y en mis proyectos personales he llevado sistemas desde un MVP en Streamlit hasta arquitecturas completas con **React + FastAPI + Docker + PostgreSQL**.
 
 - 🔭 Trabajando en: agentes conversacionales con orquestación de infraestructura (VMware, AWS)
 - 🌱 Aprendiendo: IA Aplicada con Llama (Meta) — fine-tuning con LoRA/QLoRA, evals de LLMs
