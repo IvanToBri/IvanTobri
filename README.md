@@ -76,51 +76,53 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <div align="center">
 
 ### 🤖 IA / LLMs / Agentes
-<img src="https://img.shields.io/badge/Qwen-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<a href="https://qwenlm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Qwen-6E56CF?style=for-the-badge"/></a>
+<a href="https://www.llama.com/" target="_blank"><img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReAct_Agents-2E9EF7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Prompt_Engineering-2E9EF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/>
+<a href="https://langfuse.com/" target="_blank"><img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/></a>
 
 ### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
-<img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/>
-<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/>
-<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS"/>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS"/></a>
 
 ### ⚙️ Backend / APIs
-<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
-<img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/>
-<img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
 
-### 🗄️ Bases de datos
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase"/>
+### 🧮 Bases de datos vectoriales
+<a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/></a>
+<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square&logoColor=white"/></a>
+<a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/></a>
+
+### 🗄️ Bases de datos relacionales / NoSQL
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase"/></a>
 
 ### ☁️ Infraestructura / DevOps
-<img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/>
-<img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
-<img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logoColor=black"/>
-<img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
-<img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/>
-<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
+
+### 🏗️ Infraestructura especializada
+[`OCI`](https://www.oracle.com/cloud/) · [`VMware`](https://www.vmware.com/) · [`Temporal`](https://temporal.io/) · [`RabbitMQ`](https://www.rabbitmq.com/) · [`HashiCorp Vault`](https://www.vaultproject.io/)
 
 </div>
 
