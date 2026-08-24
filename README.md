@@ -106,15 +106,25 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 
 ### 🧮 Bases de datos vectoriales
 <a href="https://qdrant.tech/" target="_blank" title="Qdrant">
-  <img src="https://img.shields.io/badge/%20%20%20%20%20%20-1a1b26?style=for-the-badge&logo=qdrant&logoColor=DC244C" height="60" alt="Qdrant"/>
+  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="48" height="48" rx="10" fill="#1A1B26"/>
+    <path d="M24 14C18.4772 14 14 18.4772 14 24C14 29.5228 18.4772 34 24 34C29.5228 34 34 29.5228 34 24C34 18.4772 29.5228 14 24 14ZM24 31C20.134 31 17 27.866 17 24C17 20.134 20.134 17 24 17C27.866 17 31 20.134 31 24C31 27.866 27.866 31 24 31Z" fill="#DC244C"/>
+  </svg>
 </a>
 <a href="https://www.trychroma.com/" target="_blank" title="ChromaDB">
-  <img src="https://img.shields.io/badge/%20%20%20%20%20%20-1a1b26?style=for-the-badge&logo=databricks&logoColor=6E56CF" height="60" alt="ChromaDB"/>
+  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="48" height="48" rx="10" fill="#1A1B26"/>
+    <circle cx="20" cy="20" r="4" fill="#6E56CF"/>
+    <circle cx="28" cy="20" r="4" fill="#6E56CF"/>
+    <circle cx="24" cy="28" r="4" fill="#6E56CF"/>
+  </svg>
 </a>
 <a href="https://faiss.ai/" target="_blank" title="FAISS">
-  <img src="https://img.shields.io/badge/%20%20%20%20%20%20-1a1b26?style=for-the-badge&logo=meta&logoColor=0467DF" height="60" alt="FAISS"/>
+  <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="48" height="48" rx="10" fill="#1A1B26"/>
+    <path d="M30 18C28 18 26 19 24 21C22 19 20 18 18 18C15 18 13 20.5 13 24C13 27.5 15 30 18 30C20 30 22 29 24 27C26 29 28 30 30 30C33 30 35 27.5 35 24C35 20.5 33 18 30 18Z" stroke="#0467DF" stroke-width="2.5"/>
+  </svg>
 </a>
-
 ### 🗄️ Bases de datos relacionales / NoSQL
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
