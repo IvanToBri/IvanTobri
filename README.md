@@ -125,6 +125,7 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
     <path d="M30 18C28 18 26 19 24 21C22 19 20 18 18 18C15 18 13 20.5 13 24C13 27.5 15 30 18 30C20 30 22 29 24 27C26 29 28 30 30 30C33 30 35 27.5 35 24C35 20.5 33 18 30 18Z" stroke="#0467DF" stroke-width="2.5"/>
   </svg>
 </a>
+
 ### 🗄️ Bases de datos relacionales / NoSQL
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></a>
