@@ -104,16 +104,15 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
 
-
 ### 🧮 Bases de datos vectoriales
 <a href="https://qdrant.tech/" target="_blank" title="Qdrant">
   <img src="https://api.iconify.design/logos:qdrant-icon.svg" height="48" width="48" alt="Qdrant" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
 <a href="https://www.trychroma.com/" target="_blank" title="ChromaDB">
-  <img src="https://api.iconify.design/logos:visual-studio-code.svg" height="48" width="48" alt="ChromaDB" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box; filter: hue-rotate(190deg);"/>
+  <img src="https://api.iconify.design/emojione-v1:rainbow.svg" height="48" width="48" alt="ChromaDB" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
 <a href="https://faiss.ai/" target="_blank" title="FAISS">
-  <img src="https://api.iconify.design/logos:meta.svg" height="48" width="48" alt="FAISS" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box; filter: brightness(0) invert(1);"/>
+  <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="FAISS" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
 
 ### 🗄️ Bases de datos relacionales / NoSQL
