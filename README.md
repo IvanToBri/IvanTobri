@@ -79,14 +79,23 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 
 <div align="center">
 
+
 ### 🤖 IA / LLMs / Agentes
-<a href="https://qwenlm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Qwen-6E56CF?style=for-the-badge"/></a>
-<a href="https://www.llama.com/" target="_blank"><img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReAct_Agents-2E9EF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
-<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Prompt_Engineering-2E9EF7?style=for-the-badge"/>
-<a href="https://langfuse.com/" target="_blank"><img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/></a>
+<a href="https://qwenlm.github.io/" target="_blank" title="Qwen">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/qwen.svg" height="48" width="48" alt="Qwen" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://www.llama.com/" target="_blank" title="Llama">
+  <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="Llama" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank" title="LangGraph">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/langchain.svg" height="48" width="48" alt="LangGraph" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://www.langfuse.com/" target="_blank" title="Langfuse">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/langfuse.svg" height="48" width="48" alt="Langfuse" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://www.anthropic.com/claude-code" target="_blank" title="Claude Code">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/claude.svg" height="48" width="48" alt="Claude Code" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
 
 ### 🖥️ Frontend
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></a>
