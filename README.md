@@ -109,7 +109,7 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
   <img src="https://api.iconify.design/logos:qdrant-icon.svg" height="48" width="48" alt="Qdrant" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
 <a href="https://www.trychroma.com/" target="_blank" title="ChromaDB">
-  <img src="https://img.shields.io/badge/%20-1a1b26?style=for-the-badge&logo=data:image/svg%2Bxml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='7' cy='14' r='4' fill='%236E56CF'/><circle cx='17' cy='14' r='4' fill='%23FF5722'/><circle cx='12' cy='7' r='4' fill='%232196F3'/></svg>&logoColor=white" height="48" width="48" alt="ChromaDB" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/img/chroma.svg&bg=1a1b26&w=48&h=48&fit=contain&output=png" height="48" width="48" alt="ChromaDB" style="border-radius: 10px;"/>
 </a>
 <a href="https://faiss.ai/" target="_blank" title="FAISS">
   <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="FAISS" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
