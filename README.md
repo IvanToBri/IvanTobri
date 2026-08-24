@@ -114,9 +114,6 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://faiss.ai/" target="_blank" title="FAISS">
   <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="FAISS" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
-<a href="https://www.trychroma.com/" target="_blank" title="ChromaDB">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='7' cy='14' r='4' fill='%236E56CF'/><circle cx='17' cy='14' r='4' fill='%23FF5722'/><circle cx='12' cy='7' r='4' fill='%232196F3'/></svg>" height="48" width="48" alt="ChromaDB" style="background: #1a1b26; border-radius: 10px; padding: 10px; box-sizing: border-box;"/>
-</a>
 
 ### 🗄️ Bases de datos relacionales / NoSQL
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
