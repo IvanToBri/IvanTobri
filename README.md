@@ -105,9 +105,9 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
 
 ### 🧮 Bases de datos vectoriales
-<a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/%20-1a1b26?style=for-the-badge&logo=qdrant&logoColor=DC244C" height="48" alt="Qdrant"/></a>
-<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/%20-1a1b26?style=for-the-badge&logo=databricks&logoColor=6E56CF" height="48" alt="ChromaDB"/></a>
-<a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/%20-1a1b26?style=for-the-badge&logo=meta&logoColor=0467DF" height="48" alt="FAISS"/></a>
+<a href="https://qdrant.tech/" target="_blank" title="Qdrant"><img src="https://img.shields.io/badge/%20%20%20-1a1b26?style=for-the-badge&logo=qdrant&logoColor=DC244C" height="52" alt="Qdrant"/></a>
+<a href="https://www.trychroma.com/" target="_blank" title="ChromaDB"><img src="https://img.shields.io/badge/%20%20%20-1a1b26?style=for-the-badge&logo=databricks&logoColor=6E56CF" height="52" alt="ChromaDB"/></a>
+<a href="https://faiss.ai/" target="_blank" title="FAISS"><img src="https://img.shields.io/badge/%20%20%20-1a1b26?style=for-the-badge&logo=meta&logoColor=0467DF" height="52" alt="FAISS"/></a>
 
 ### 🗄️ Bases de datos relacionales / NoSQL
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
