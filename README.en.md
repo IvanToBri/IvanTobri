@@ -81,13 +81,26 @@ Agentic flow orchestrated with **Temporal**: pre-execution validations and human
 <div align="center">
 
 ### 🤖 AI / LLMs / Agents
-<a href="https://qwenlm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Qwen-6E56CF?style=for-the-badge"/></a>
-<a href="https://www.llama.com/" target="_blank"><img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReAct_Agents-2E9EF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
-<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Prompt_Engineering-2E9EF7?style=for-the-badge"/>
-<a href="https://langfuse.com/" target="_blank"><img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge"/></a>
+<a href="https://qwenlm.github.io/" target="_blank" title="Qwen">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/qwen.svg" height="48" width="48" alt="Qwen" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://www.llama.com/" target="_blank" title="Llama">
+  <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="Llama" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<!-- LangGraph (SVG nativo limpio sobre #1a1b26) -->
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank" title="LangGraph">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=60&v=4" height="48" width="48" alt="LangGraph" style="background: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;"/>
+</a>
+
+<!-- Langfuse (Avatar oficial procesado sin fondo blanco) -->
+<a href="https://www.langfuse.com/" target="_blank" title="Langfuse">
+  <img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/134601687?s=60&bg=1a1b26&w=48&h=48&fit=contain" height="48" width="48" alt="Langfuse" style="border-radius: 10px;"/>
+</a>
+
+<!-- Claude Code (Anthropic) -->
+<a href="https://www.anthropic.com/claude-code" target="_blank" title="Claude Code">
+  <img src="https://api.iconify.design/logos:claude-icon.svg" height="48" width="48" alt="Claude Code" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
 
 ### 🖥️ Frontend
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></a>
@@ -106,9 +119,15 @@ Agentic flow orchestrated with **Temporal**: pre-execution validations and human
 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
 
 ### 🧮 Vector Databases
-<a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/></a>
-<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square&logoColor=white"/></a>
-<a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/></a>
+<a href="https://qdrant.tech/" target="_blank" title="Qdrant">
+  <img src="https://api.iconify.design/logos:qdrant-icon.svg" height="48" width="48" alt="Qdrant" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://www.trychroma.com/" target="_blank" title="ChromaDB">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/chroma.svg" height="48" width="48" alt="ChromaDB" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
+<a href="https://faiss.ai/" target="_blank" title="FAISS">
+  <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="FAISS" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+</a>
 
 ### 🗄️ Relational / NoSQL Databases
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
@@ -125,7 +144,6 @@ Agentic flow orchestrated with **Temporal**: pre-execution validations and human
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
-
 </div>
 
 ---
