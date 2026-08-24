@@ -87,14 +87,14 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://www.llama.com/" target="_blank" title="Llama">
   <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="Llama" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
-<!-- LangGraph -->
+<!-- LangGraph (SVG nativo limpio sobre #1a1b26) -->
 <a href="https://langchain-ai.github.io/langgraph/" target="_blank" title="LangGraph">
-  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3C" height="48" width="48" alt="LangGraph" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-dark.svg&bg=1a1b26&w=48&h=48&fit=contain&output=png" height="48" width="48" alt="LangGraph" style="border-radius: 10px;"/>
 </a>
 
-<!-- Langfuse -->
+<!-- Langfuse (Avatar oficial procesado sin fondo blanco) -->
 <a href="https://www.langfuse.com/" target="_blank" title="Langfuse">
-  <img src="https://api.iconify.design/simple-icons:simpleicons.svg?color=%23ffffff" height="48" width="48" alt="Langfuse" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
+  <img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/134601687?s=60&bg=1a1b26&w=48&h=48&fit=contain" height="48" width="48" alt="Langfuse" style="border-radius: 10px;"/>
 </a>
 
 <!-- Claude Code (Anthropic) -->
