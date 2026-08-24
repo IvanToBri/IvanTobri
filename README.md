@@ -109,7 +109,7 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
   <img src="https://api.iconify.design/logos:qdrant-icon.svg" height="48" width="48" alt="Qdrant" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
 </a>
 <a href="https://www.trychroma.com/" target="_blank" title="ChromaDB">
-  <img src="https://avatars.githubusercontent.com/u/105881770?s=60&v=4" height="48" width="48" alt="ChromaDB" style="background: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;"/>
+  <img src="https://avatars.githubusercontent.com/u/105881770?s=60&v=4" height="48" width="48" alt="ChromaDB" style="background: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box; filter: multiply; mix-blend-mode: multiply;"/>
 </a>
 <a href="https://faiss.ai/" target="_blank" title="FAISS">
   <img src="https://api.iconify.design/logos:meta-icon.svg" height="48" width="48" alt="FAISS" style="background: #1a1b26; border-radius: 10px; padding: 8px; box-sizing: border-box;"/>
