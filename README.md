@@ -105,9 +105,9 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/></a>
 
 ### 🧮 Bases de datos vectoriales
-<a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white"/></a>
-<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square&logoColor=white"/></a>
-<a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white"/></a>
+<a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/-Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" height="48" alt="Qdrant"/></a>
+<a href="https://www.trychroma.com/" target="_blank"><img src="https://img.shields.io/badge/-ChromaDB-6E56CF?style=for-the-badge" height="48" alt="ChromaDB"/></a>
+<a href="https://faiss.ai/" target="_blank"><img src="https://img.shields.io/badge/-FAISS-0467DF?style=for-the-badge" height="48" alt="FAISS"/></a>
 
 ### 🗄️ Bases de datos relacionales / NoSQL
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/></a>
