@@ -137,7 +137,6 @@ Flujo agentic con orquestación **Temporal**: validaciones pre-ejecución y apro
 
 ### ☁️ Infraestructura / DevOps
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></a>
-
 <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/></a>
 <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
